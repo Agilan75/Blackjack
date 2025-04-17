@@ -1,2 +1,27 @@
-# Blackjack
-A game of black jack
+# Blackjack Game 
+
+**Author:** Agilan Hariharan  
+**Last Modified:** April 17, 2025 
+
+## Description
+
+This is a command-line Blackjack game built using Python. It simulates a full round of Blackjack between a player and the dealer. The code uses object-oriented programming to structure the game into modular components such as `Card`, `Deck`, `Player`, `Dealer`, and `Game`. It also includes utility functions to keep the code clean and readable.
+
+---
+
+## Features
+
+- Full deck of 52 cards, shuffled each round
+- Realistic Blackjack rules (Ace = 1 or 11, dealer hits below 16, etc.)
+- Player options: Hit or Stay
+- Dealer plays automatically using correct rules
+- Tracks wins, losses, and ties across rounds
+
+---
+
+## How to Run
+
+Make sure you have Python3 installed. Then run the following command:
+
+cd src
+python main.py

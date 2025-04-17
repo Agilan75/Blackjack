@@ -25,4 +25,4 @@ Open this repo on an IDE of choice. Make sure you have Python3 installed. Then r
 
 cd src
 
-python main.py
+python main.py (if this doesn't work try: python3 main.py)

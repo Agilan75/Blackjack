@@ -21,7 +21,8 @@ This is a command-line Blackjack game built using Python. It simulates a full ro
 
 ## How to Run
 
-Make sure you have Python3 installed. Then run the following command:
+Open this repo on an IDE of choice. Make sure you have Python3 installed. Then run the following commands in the terminal:
 
 cd src
+
 python main.py

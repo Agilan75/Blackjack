@@ -26,3 +26,11 @@ Open this repo on an IDE of choice. Make sure you have Python3 installed. Then r
 `cd src`
 
 `python main.py` (if this doesn't work try: `python3 main.py`)
+
+---
+
+## Demo Video
+
+https://github.com/user-attachments/assets/3ac0b0ee-55bd-4a61-bbc2-e4ee38125531
+
+
